@@ -40,7 +40,7 @@ LinkedListCustom: Implementation to push,sort and display the values from the li
       Desc: As per the input and expected output, this method should pass as it checks for odd.
             Expected value 11. i.e.Highest Odd number.
             
-   Node
+   Node-->
    Holds the current val and ref of next val. Used as datatype for head node of list.
  
   
