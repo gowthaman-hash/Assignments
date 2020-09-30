@@ -32,13 +32,13 @@ LinkedListCustom: Implementation to push,sort and display the values from the li
       Desc: Initialize for each test and it invokes merge sort. Expected output post sort is 1 3 5 9 11 2 6 10 for the input 2 6 1 5 10 11 9 3
    2) void checkFirstValueAsOdd() 
       Desc: As per the input and expected output, this method should pass as it checks for odd.
-            Expected value 1. Lowest Odd number.
+            Expected value 1. i.e.Lowest Odd number.
    3) void checkLastValueAsEven() 
       Desc: As per the input and expected output, this method should pass as it checks for even.
-            Expected value 10. Highest even number.
+            Expected value 10. i.e.Highest even number.
    4) void checkLastValOfFirstSet()
       Desc: As per the input and expected output, this method should pass as it checks for odd.
-            Expected value 11. Highest Odd number.
+            Expected value 11. i.e.Highest Odd number.
             
    Node
    Holds the current val and ref of next val. Used as datatype for head node of list.
